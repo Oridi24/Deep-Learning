@@ -16,8 +16,8 @@ Este proyecto utiliza técnicas avanzadas de **Deep Learning multimodal** para p
 
 El modelo desarrollado integra dos fuentes de información complementarias:
 
-- 🖼️ **Características visuales:** extraídas de imágenes con una red neuronal convolucional (CNN).
-- 📊 **Metadatos estructurados:** como ubicación geográfica, etiquetas, categoría, nivel de popularidad, etc.
+- **Características visuales:** extraídas de imágenes con una red neuronal convolucional (CNN).
+-  **Metadatos estructurados:** como ubicación geográfica, etiquetas, categoría, nivel de popularidad, etc.
 
 El objetivo es clasificar automáticamente cada POI como de **alto o bajo engagement** utilizando un enfoque **multimodal**.
 
@@ -60,13 +60,13 @@ El objetivo es clasificar automáticamente cada POI como de **alto o bajo engage
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Predecir si un punto turístico generará **engagement alto o bajo** con base en su contenido visual y atributos contextuales, aplicando una arquitectura de red **multimodal**.
 
 ---
 
-## 💬 Notas finales
+##  Notas finales
 
 - Este proyecto aún está en progreso y continuará siendo actualizado.
 - ¡Tu feedback es bienvenido! Si tienes ideas, mejoras o sugerencias, no dudes en abrir una issue o pull request.
