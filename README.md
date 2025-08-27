@@ -9,12 +9,12 @@
 
 ## 📌 Descripción
 
-El modelo desarrollado integra dos fuentes de información complementarias:
+*El modelo desarrollado integra dos fuentes de información complementarias:*
 
-- **Características visuales:** extraídas de imágenes con una red neuronal convolucional (CNN).
--  **Metadatos estructurados:** como ubicación geográfica, etiquetas, categoría, nivel de popularidad, etc.
+- ***Características visuales:*** *extraídas de imágenes con una red neuronal convolucional (CNN).*
+-  ***Metadatos estructurados:*** *como ubicación geográfica, etiquetas, categoría, nivel de popularidad, etc.*
 
-El objetivo es clasificar automáticamente cada POI como de **alto o bajo engagement** utilizando un enfoque **multimodal**.
+*El objetivo es predecir si un punto turístico generará **engagement alto o bajo** con base en su contenido visual y atributos contextuales, aplicando una arquitectura de red **multimodal**.*
 
 ---
 
@@ -53,11 +53,9 @@ El objetivo es clasificar automáticamente cada POI como de **alto o bajo engage
 7. **Entrenamiento de modelo multimodal**
 8. **Evaluación con métricas de clasificación**
 
----
 
-##  Objetivo
 
-Predecir si un punto turístico generará **engagement alto o bajo** con base en su contenido visual y atributos contextuales, aplicando una arquitectura de red **multimodal**.
+
 
 ---
 
