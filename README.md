@@ -5,10 +5,6 @@
 
 *Este proyecto utiliza técnicas avanzadas de **Deep Learning multimodal** para predecir el **nivel de engagement (alto o bajo)** que generarán distintos **Puntos de Interés turísticos (POIs)** combinando imágenes y metadatos.*
 
-> 🚧 **Estado del proyecto:** EN DESARROLLO  
-> 🗓️ **Fecha límite:** 13 de julio de 2025  
-> 📍 Este repositorio se encuentra en construcción activa como parte de un proyecto final de tesis en Deep Learning.
-
 ---
 
 ## 📌 Descripción
